@@ -1,2 +1,2 @@
 # Recipe-cards
-Created a recipe cards website using HTML & CSS
+Styled a recipe cards website using CSS
